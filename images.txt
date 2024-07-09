@@ -47,3 +47,5 @@ gitlab/gitlab-ee:17.1.1-ee.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+tdengine/tdengine:latest
