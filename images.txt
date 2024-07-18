@@ -55,5 +55,7 @@
 
 #lmenezes/cerebro:latest
 
-elasticsearch:7.17.14
-kibana:7.17.14
+#elasticsearch:7.17.14
+#kibana:7.17.14
+
+redis:7.2.4
