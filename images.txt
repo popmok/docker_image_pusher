@@ -60,4 +60,6 @@
 
 #redis:7.2.4
 
-victorfc1984/jetlinks-standalone:latest
+#victorfc1984/jetlinks-standalone:latest
+
+shokohsc/jsoncrack:latest
