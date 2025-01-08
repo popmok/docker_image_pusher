@@ -62,4 +62,6 @@
 
 #victorfc1984/jetlinks-standalone:latest
 
-shokohsc/jsoncrack:latest
+#shokohsc/jsoncrack:latest
+
+dpanel/dpanel:lite
