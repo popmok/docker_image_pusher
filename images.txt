@@ -64,4 +64,6 @@
 
 #shokohsc/jsoncrack:latest
 
-dpanel/dpanel:lite
+#dpanel/dpanel:lite
+
+zlmediakit/zlmediakit
