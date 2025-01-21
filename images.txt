@@ -66,4 +66,4 @@
 
 #dpanel/dpanel:lite
 
-zlmediakit/zlmediakit
+zlmediakit/zlmediakit:master
