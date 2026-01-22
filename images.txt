@@ -66,4 +66,7 @@
 
 #dpanel/dpanel:lite
 
-zlmediakit/zlmediakit:master
+#zlmediakit/zlmediakit:master
+
+elasticsearch:7.17.29
+kibana:7.17.29
