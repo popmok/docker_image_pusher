@@ -68,5 +68,12 @@
 
 #zlmediakit/zlmediakit:master
 
-elasticsearch:7.17.29
-kibana:7.17.29
+#elasticsearch:7.17.29
+#kibana:7.17.29
+
+jetlinks-api-gateway-service:2.10.0-SNAPSHOT
+jetlinks-authentication-service:2.10.0-SNAPSHOT
+jetlinks-iot-service:2.10.0-SNAPSHOT
+jetlinks-rule-engine-service:2.10.0-SNAPSHOT
+jetlinks-notify-service:2.10.0-SNAPSHOT
+jetlinks-visualization-service:2.10.0-SNAPSHOT
